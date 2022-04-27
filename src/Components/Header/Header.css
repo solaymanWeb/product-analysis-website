@@ -1,0 +1,28 @@
+.menue a:hover{
+    color: orangered;
+}
+.link{
+    text-decoration: none;
+    padding: 20px;
+    margin-left: 5px;
+    border-bottom: 2px solid gray;
+    color: black;
+    font-weight: bold;
+    margin-top: 10px;
+    display: inline-block;
+}
+.link:hover{
+    color:orangered;
+    border-bottom: 2px solid orangered;
+    
+}
+.active-link{
+    text-decoration: none;
+    padding: 20px;
+    margin-left: 5px;
+    border-bottom: 2px solid orangered;
+    color: orangered;
+    font-weight: bold;
+    margin-top: 10px;
+    display: inline-block;
+}
