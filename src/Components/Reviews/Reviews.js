@@ -3,9 +3,7 @@ import useReview from '../../hooks/useReview';
 
 const Reviews = () => {
     const [reviews, setReviews]=useReview();
-    // if(reviews.length <=2){
 
-    // }
     return (
         <div>
             <div className="container customer-reviews">
