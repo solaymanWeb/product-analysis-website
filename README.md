@@ -1,6 +1,6 @@
 # Project name: fashion-store
 
-This project Live link: [click here for see live link](https://github.com/facebook/create-react-app).
+This project Live link: [click here for see live link](https://fashion-store11.netlify.app/).
 
 ## project details
 - This project name is fashion-store make it react js . project type single page application
