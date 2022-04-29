@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Project name: fashion-store
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project Live link: [click here for see live link](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
